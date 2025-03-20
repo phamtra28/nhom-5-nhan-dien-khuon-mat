@@ -1,10 +1,15 @@
-# 🚀 Nhận diện khuôn mặt với InsightFace  
+<h1 align="center">NHẬN DIỆN KHUÔN MẶT VỚI INSIGHT FACE </h1>
 
+<div align="center">
+
+</p>
+
+![Made by AIoTLab](https://github.com/chinhliki/Nhan-dien-khuon-mat/blob/main/Screenshot%202025-03-17%20205953.png?raw=true)
+</div>
 ## 📌 Giới thiệu  
 Dự án này sử dụng **InsightFace** – một thư viện nhận diện khuôn mặt mạnh mẽ dựa trên Deep Learning, được tối ưu hóa cho GPU. InsightFace cung cấp các mô hình hiện đại để phát hiện, nhận dạng và so khớp khuôn mặt với độ chính xác cao.  
 
 ---  
-
 ## 🎯 Tính năng  
 - 📸 **Phát hiện khuôn mặt** trong hình ảnh hoặc video.  
 - 🔍 **Nhận dạng và so khớp khuôn mặt** với dữ liệu đã lưu trữ.  
@@ -19,7 +24,9 @@ Dự án này sử dụng **InsightFace** – một thư viện nhận diện kh
 - 🐍 **Python** >= 3.8  
 - 🎮 **CUDA** (nếu chạy trên GPU)  
 - 📷 **OpenCV**  
-- 🤖 **InsightFace**  
+- 🤖 **InsightFace**
+## 📌 Mô Hình
+![Face Detection](https://github.com/chinhliki/Nhan-dien-khuon-mat/blob/main/Screenshot%202025-03-17%20211520.png#:~:text=17%20205953.png-,Screenshot%202025%2D03%2D17%20211520.png,-Tri_tue_nhan_tao.pptx)  
 
 ### 2️⃣ Cài đặt thư viện  
 Chạy lệnh sau để cài đặt các thư viện cần thiết:  
@@ -94,3 +101,4 @@ print(f"Độ tương đồng giữa hai khuôn mặt: {similarity:.2f}")
 - InsightFace hỗ trợ nhiều mô hình khác nhau (`buffalo_l`, `buffalo_s`, `antelopev2`...), hãy thử nghiệm để tìm mô hình phù hợp nhất.  
 
 ---  
+
